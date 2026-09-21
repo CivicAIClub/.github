@@ -11,12 +11,14 @@ Each project lives in its own repository. Internal faculty cases are named `case
 | [case-a-clc-workflow](https://github.com/CivicAIClub/case-a-clc-workflow) | AutoPlanner: Canvas assignments → per-student Google Docs planner (FastAPI + Apps Script + static UI) | CLC Supported Study Hall | Luke Ryan, Jack Weinberg |
 | [case-b-music-studio](https://github.com/CivicAIClub/case-b-music-studio) | Music Studio portal: student profiles, lesson scheduling, Drive resources, lesson recaps (Vite/React + Apps Script) | Mr. O'Neal | Serena Xu, JT Gannon |
 | [case-c-dei-timeline](https://github.com/CivicAIClub/case-c-dei-timeline) | Pomfret Voices: interactive DEI timeline and digital archive (Next.js 14) | Dr. McCarter, Dean of DEI | Zahir Williams, Keke Li |
+<<<<<<< HEAD
 | [case-d-roster-export](https://github.com/CivicAIClub/case-d-roster-export) | Canvas roster → Google Docs comment templates (Google Apps Script) | Mr. Ring | James Lake, Magnus Songhurst |
 | [case-e-college-counselling](https://github.com/CivicAIClub/case-e-college-counselling) | College counselling tools (discovery not started; stack TBD) | Mr. Wolanin | _unassigned_ |
+=======
+| [case-d-roster-export](https://github.com/CivicAIClub/case-d-roster-export) | Canvas roster → Google Docs comment templates (Google Apps Script) | Mr. Ring | James Lake, Magnus Songhurst, Jay Youm (alumni advisor) |
+>>>>>>> chore/jay-youm-graduated
 | [docs](https://github.com/CivicAIClub/docs) | Club-wide documentation, including the developer onboarding guide | — | everyone |
 | [Civic-AI-Github-Repository](https://github.com/CivicAIClub/Civic-AI-Github-Repository) | **Archived** original monorepo (split into the repos above on 2026-09-18). History preserved; do not develop here | — | — |
-
-Alumni: Jay Youm (Graduated), formerly Case D.
 
 ## New here?
 
