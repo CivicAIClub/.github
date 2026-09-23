@@ -2,7 +2,7 @@
 
 A student-run technology and development lab that builds AI-powered solutions for real-world productivity problems at Pomfret School and beyond.
 
-Each project lives in its own repository. Internal faculty cases are named `case-<letter>-<slug>`; external client cases will be named `ext-<letter>-<client-slug>`.
+Each project lives in its own repository. Internal faculty cases are named `case-<letter>-<slug>`; external client cases are named `ext-<letter>-<client-slug>`.
 
 ## Repositories
 
@@ -15,6 +15,13 @@ Each project lives in its own repository. Internal faculty cases are named `case
 | [case-e-college-counseling](https://github.com/CivicAIClub/case-e-college-counseling) | College counseling tools (discovery not started; stack TBD) | Mr. Wolanin | _unassigned_ |
 | [docs](https://github.com/CivicAIClub/docs) | Club-wide documentation, including the developer onboarding guide | — | everyone |
 | [Civic-AI-Github-Repository](https://github.com/CivicAIClub/Civic-AI-Github-Repository) | **Archived** original monorepo (split into the repos above on 2026-09-18). History preserved; do not develop here | — | — |
+
+### External clients
+
+| Repository | What it is | Client | Team |
+|---|---|---|---|
+| [ext-a-green-valley-hospitality](https://github.com/CivicAIClub/ext-a-green-valley-hospitality) | POS daily sales recap automation: SpotOn PDF → per-restaurant workbook | Green Valley Hospitality (Vanilla Bean Café, 85 Main, Dog Lane Café, Fenton River Grill) | to be assigned |
+| [ext-b-black-pond-brews](https://github.com/CivicAIClub/ext-b-black-pond-brews) | Marketing and email automation | Black Pond Brews, Danielson CT | to be assigned |
 
 ## New here?
 
