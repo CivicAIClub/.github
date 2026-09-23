@@ -20,8 +20,8 @@ Each project lives in its own repository. Internal faculty cases are named `case
 
 | Repository | What it is | Client | Team |
 |---|---|---|---|
-| [ext-a-green-valley-hospitality](https://github.com/CivicAIClub/ext-a-green-valley-hospitality) | POS daily sales recap automation: SpotOn PDF → per-restaurant workbook | Green Valley Hospitality (Vanilla Bean Café, 85 Main, Dog Lane Café, Fenton River Grill) | to be assigned |
-| [ext-b-black-pond-brews](https://github.com/CivicAIClub/ext-b-black-pond-brews) | Marketing and email automation | Black Pond Brews, Danielson CT | to be assigned |
+| [ext-a-green-valley-hospitality](https://github.com/CivicAIClub/ext-a-green-valley-hospitality) | Daily sales recap automation | Green Valley Hospitality | to be assigned |
+| [ext-b-black-pond-brews](https://github.com/CivicAIClub/ext-b-black-pond-brews) | Marketing and email automation | Black Pond Brews | to be assigned |
 
 ## New here?
 
